@@ -1,0 +1,62 @@
+[
+    {
+        "id": 1,
+        "nombre": "Chanel N°5",
+        "precio": 89990,
+        "categoria": "clasico",
+        "stock": 15,
+        "marca": "Chanel",
+        "descripcion": "El perfume más icónico del mundo",
+        "imagen": "./images/perfumes/chanel-n5.jpg"
+    },
+    {
+        "id": 2,
+        "nombre": "Dior Sauvage", 
+        "precio": 67990,
+        "categoria": "fresco",
+        "stock": 12,
+        "marca": "Dior",
+        "descripcion": "Fragancia masculina más vendida",
+        "imagen": "./images/perfumes/dior-sauvage.jpg"
+    },
+    {
+        "id": 3,
+        "nombre": "Versace Eros",
+        "precio": 54990,
+        "categoria": "oriental", 
+        "stock": 8,
+        "marca": "Versace",
+        "descripcion": "Seducción y pasión en cada gota",
+        "imagen": "./images/perfumes/versace-eros.jpg"
+    },
+    {
+        "id": 4,
+        "nombre": "Paco Rabanne 1 Million",
+        "precio": 49990,
+        "categoria": "amaderado",
+        "stock": 20,
+        "marca": "Paco Rabanne",
+        "descripcion": "El aroma del éxito",
+        "imagen": "./images/perfumes/paco-1million.jpg"
+    },
+    {
+        "id": 5,
+        "nombre": "Giorgio Armani Acqua di Gio",
+        "precio": 72990,
+        "categoria": "acuatico",
+        "stock": 10,
+        "marca": "Giorgio Armani",
+        "descripcion": "Frescura mediterránea",
+        "imagen": "./images/perfumes/armani-acqua.jpg"
+    },
+    {
+        "id": 6,
+        "nombre": "Tom Ford Black Orchid",
+        "precio": 119990,
+        "categoria": "oriental",
+        "stock": 5,
+        "marca": "Tom Ford",
+        "descripcion": "Lujo y sofisticación extrema",
+        "imagen": "./images/perfumes/tomford-orchid.jpg"
+    }
+]
